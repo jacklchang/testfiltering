@@ -9,3 +9,7 @@ $('.tag.example .ui.dropdown')
     clearable: true
   })
 ;
+
+$('.ui.sidebar')
+  .sidebar('toggle')
+;
